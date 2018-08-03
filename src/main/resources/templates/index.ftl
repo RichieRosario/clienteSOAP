@@ -60,10 +60,8 @@
             <p>Cliente SOAP - Ricardo y Emilio &copy; 2018 </p>
        </footer>
 <br>
-<body class="bg-light">
-<div class="container" >
 
 
-<br>
-</body>
+
+
 </html>
